@@ -1,0 +1,9 @@
+{
+  "mae_baseline_min": 18.29,
+  "mae_model_min": 16.64,
+  "improvement_pct": 9.04,
+  "interval_coverage_pct": 65.96,
+  "test_samples": 1601,
+  "baseline_name": "schedule + current delay",
+  "model_name": "HistGradientBoosting quantile (q10/q50/q90)"
+}
